@@ -11,7 +11,7 @@ From training to evaluation, the entire process will be automated using GitHub a
 ## Pipeline
 
 
-![CICD](./asset/CICD-pipeline.png)
+![CICD](./Data/CICD-pipeline.png)
 
 ## Results
 | Model                  | Accuracy | F1 Score |
