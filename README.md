@@ -1,5 +1,5 @@
 # CICD-for-Machine-Learning
-[(https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md-dark.svg)](https://huggingface.co/spaces/saumya-patel/Drug-Classification)
+(https://huggingface.co/spaces/saumya-patel/Drug-Classification)
 
 
 ## Project Description
